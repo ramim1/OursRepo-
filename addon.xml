@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<addon id="
-repository.Ramim
-" name="
-OursRepo
-" version="1.0" provider-name="
-Ramim
-"> 
-<extension point="xbmc.addon.repository" name="
-OursRepo
-"> 
-<info compressed="false">
- 
-https://raw.githubusercontent.com/ramim1/OursRepo/master/repository/addons.xml
+<addon id="repository.OursRepo"name="OursRepo" version="1.0.0" provider-name="OursRepo"
+             <extension point="xbmc.addon.repository" name="OursRepo"> 
+                <info 
+compressed="false">https://raw.githubusercontent.com/ramim1/OursRepo/master/repository/addons.xml
 </info>
- 
 <checksum>
 https://raw.githubusercontent.com/ramim1/OursRepo/master/repository/addons.xml.md5
 </checksum>
  
-<datadir zip="true">https://github.com/ramim1/OursRepo/tree/master/repository/zips
- 
+<datadir zip="true">https://github.com/ramim1/OursRepo/raw/master/repository/zips
 </datadir>
  
 </extension> 
