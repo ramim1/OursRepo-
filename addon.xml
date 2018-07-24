@@ -18,17 +18,17 @@ https://raw.githubusercontent.com/ramim1/OursRepo/master/repository/addons.xml
 https://raw.githubusercontent.com/ramim1/OursRepo/master/repository/addons.xml.md5
 </checksum>
  
-<datadir zip="true">https://github.com/ramim1/OursRepo/raw/master/repository/zips
+<datadir zip="true">https://github.com/ramim1/OursRepo/tree/master/repository/zips
  
 </datadir>
  
 </extension> 
 <extension point="xbmc.addon.metadata"> 
 <summary>
-OurRepo
+OursRepo
 </summary> 
 <description>
-OurRepo
+OursRepo
 </description> 
 <platform>all</platform> 
 </extension> 
